@@ -1,6 +1,6 @@
 {
 "version":"2",
 "title":"Maintenance",
-"message":"Working on maintenance to improve some things.Quality improvements, bug fixes, and more. Please try again later.",
+"message":"Fixing bugs and general improvements. Please try again later",
 "ok":"Retry again"
 }
