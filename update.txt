@@ -1,5 +1,5 @@
 {
-"version":"1",
+"version":"2",
 "title":"New update available",
 "message":"With improvements and more",
 "ok":"Download",
