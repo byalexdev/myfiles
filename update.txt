@@ -1,4 +1,4 @@
 {
 "version":"2",
-"ok":"https://raw.githubusercontent.com/byalexdev/"
+"ok":"https://raw.githubusercontent.com"
 }
