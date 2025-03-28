@@ -1,8 +1,3 @@
 {
-"version":"2",
-"title":"New update available",
-"message":"With improvements and more",
-"ok":"Download",
-"cancel":"Cancel",
-"download":"https://www.google.com.sv"
+"version":"2"
 }
