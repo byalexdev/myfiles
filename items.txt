@@ -1,5 +1,7 @@
 {
 "img":"https://raw.githubusercontent.com/byalexdev/myfiles/refs/heads/main/fileapp.png",
+"img2":"https://raw.githubusercontent.com/byalexdev/myfiles/refs/heads/main/fileapp.png",
+"img3":"https://raw.githubusercontent.com/byalexdev/myfiles/refs/heads/main/fileapp.png",
 "price":"2USD",
 "title":"Testing item one"
 }
