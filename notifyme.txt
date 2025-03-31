@@ -1,5 +1,4 @@
 {
 "version":"2",
-"title":"test notify app",
-"title2":"test notify app"
+"estimated":"Estimated time of 1 hour"
 }
